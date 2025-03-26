@@ -3,7 +3,7 @@ Django
 DRF
 Python
 
-A robust Task Management API built with Django REST Framework that allows users to create tasks, assign them to users, and retrieve tasks assigned to specific users.
+A Task Management API built with Django REST Framework that allows users to create tasks, assign them to users, and retrieve tasks assigned to specific users.
 
 ## Features
 User Management: Custom user model with extended fields
